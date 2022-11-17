@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b90b0c12-a940-479d-ad95-34e219da60d9" name="Changes" comment="Add Devise&#10;(user avtentikacija)">
+    <list default="true" id="b90b0c12-a940-479d-ad95-34e219da60d9" name="Changes" comment="Add user to posts&#10;(video 2 končan)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/controllers/posts_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/posts_controller.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/models/post.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/post.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/models/user.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/user.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/schema.rb" beforeDir="false" afterPath="$PROJECT_DIR$/db/schema.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -185,7 +183,7 @@
       <workItem from="1668636615270" duration="201000" />
       <workItem from="1668636841282" duration="407000" />
       <workItem from="1668637261318" duration="597000" />
-      <workItem from="1668643380010" duration="4858000" />
+      <workItem from="1668643380010" duration="7568000" />
     </task>
     <task id="LOCAL-00001" summary="test comment">
       <created>1668070210238</created>
@@ -208,7 +206,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668646243148</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add user to posts&#10;(video 2 končan)">
+      <created>1668648295553</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1668648295553</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -229,6 +234,7 @@
     <MESSAGE value="test comment" />
     <MESSAGE value="Konec 1 video...&#10;(vse deluje)" />
     <MESSAGE value="Add Devise&#10;(user avtentikacija)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Devise&#10;(user avtentikacija)" />
+    <MESSAGE value="Add user to posts&#10;(video 2 končan)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add user to posts&#10;(video 2 končan)" />
   </component>
 </project>
