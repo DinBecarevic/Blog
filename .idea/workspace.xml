@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b90b0c12-a940-479d-ad95-34e219da60d9" name="Changes" comment="Add Username&#10;(add username to post, create user, edit user)">
-      <change afterPath="$PROJECT_DIR$/app/views/application/_navbar.html.erb" afterDir="false" />
+    <list default="true" id="b90b0c12-a940-479d-ad95-34e219da60d9" name="Changes" comment="Add navbar">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/helpers/application_helper.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/helpers/application_helper.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -189,7 +189,11 @@
       <workItem from="1668636841282" duration="407000" />
       <workItem from="1668637261318" duration="597000" />
       <workItem from="1668643380010" duration="8000000" />
-      <workItem from="1668668999527" duration="3899000" />
+      <workItem from="1668668999527" duration="4167000" />
+      <workItem from="1668684947933" duration="453000" />
+      <workItem from="1668685425587" duration="1186000" />
+      <workItem from="1669101216741" duration="889000" />
+      <workItem from="1669102534458" duration="925000" />
     </task>
     <task id="LOCAL-00001" summary="test comment">
       <created>1668070210238</created>
@@ -233,7 +237,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668672657896</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Add navbar">
+      <created>1668674364375</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1668674364375</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -257,6 +268,7 @@
     <MESSAGE value="Add user to posts&#10;(video 2 končan)" />
     <MESSAGE value="Authorized and authenticate user&#10;(uporabnik lahko CRUDa samo svoje)" />
     <MESSAGE value="Add Username&#10;(add username to post, create user, edit user)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Username&#10;(add username to post, create user, edit user)" />
+    <MESSAGE value="Add navbar" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add navbar" />
   </component>
 </project>
