@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b90b0c12-a940-479d-ad95-34e219da60d9" name="Changes" comment="Notice in alert v navbar">
-      <change afterPath="$PROJECT_DIR$/app/views/application/_dropdown_options.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/application/_login_buttons.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/discord.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
+    <list default="true" id="b90b0c12-a940-479d-ad95-34e219da60d9" name="Changes" comment="Add active class to current page link">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/helpers/application_helper.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/helpers/application_helper.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/application/_navbar.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/application/_navbar.html.erb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,22 +22,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/code/Blog",
-    "nodejs_package_manager_path": "npm",
-    "ruby.rails.projectView.checked": "true",
-    "settings.editor.selected.configurable": "discord-project"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/code/Blog&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ruby.rails.projectView.checked&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "postgresql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;postgresql&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\code\Blog\app\views\application" />
@@ -196,7 +192,9 @@
       <workItem from="1668684947933" duration="453000" />
       <workItem from="1668685425587" duration="1186000" />
       <workItem from="1669101216741" duration="889000" />
-      <workItem from="1669102534458" duration="3236000" />
+      <workItem from="1669102534458" duration="3846000" />
+      <workItem from="1670313029433" duration="197000" />
+      <workItem from="1670313244720" duration="2178000" />
     </task>
     <task id="LOCAL-00001" summary="test comment">
       <created>1668070210238</created>
@@ -254,7 +252,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669103712977</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Add active class to current page link">
+      <created>1669106533684</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1669106533684</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -280,6 +285,7 @@
     <MESSAGE value="Add Username&#10;(add username to post, create user, edit user)" />
     <MESSAGE value="Add navbar" />
     <MESSAGE value="Notice in alert v navbar" />
-    <option name="LAST_COMMIT_MESSAGE" value="Notice in alert v navbar" />
+    <MESSAGE value="Add active class to current page link" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add active class to current page link" />
   </component>
 </project>
