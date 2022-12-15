@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b90b0c12-a940-479d-ad95-34e219da60d9" name="Changes" comment="Add active class to current page link">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="b90b0c12-a940-479d-ad95-34e219da60d9" name="Changes" comment="nič">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/post.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/post.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/user.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/user.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/schema.rb" beforeDir="false" afterPath="$PROJECT_DIR$/db/schema.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -195,6 +198,11 @@
       <workItem from="1669102534458" duration="3846000" />
       <workItem from="1670313029433" duration="197000" />
       <workItem from="1670313244720" duration="2178000" />
+      <workItem from="1670846332300" duration="587000" />
+      <workItem from="1670857333968" duration="5000" />
+      <workItem from="1670915284256" duration="1817000" />
+      <workItem from="1670922479496" duration="14000" />
+      <workItem from="1671087664061" duration="1336000" />
     </task>
     <task id="LOCAL-00001" summary="test comment">
       <created>1668070210238</created>
